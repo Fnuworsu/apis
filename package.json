@@ -1,0 +1,22 @@
+{
+  "name": "yt-ai-agent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/textsplitters": "^0.1.0",
+    "@openai/agents": "^0.0.9",
+    "dotenv": "^16.5.0",
+    "langchain": "^0.3.29",
+    "openai": "^5.6.0",
+    "youtube-transcript": "^1.2.1",
+    "youtube-transcript-api": "^3.0.0"
+  },
+  "type": "module"
+}
